@@ -9,4 +9,5 @@ Hamiltonian construction for SOC-mediated EDSR.
 
 Monte Carlo analysis for fidelity under noise.
 
-[Visualization of results] (أ  data:    
+[Visualization of results] (   <img width="709" height="470" alt="image" src="https://github.com/user-attachments/assets/12acf2ac-bffa-4fec-90a5-5e49fd16047b" />
+
